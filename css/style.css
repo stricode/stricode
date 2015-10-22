@@ -1,0 +1,11 @@
+body {
+    position: relative;
+}
+
+.center-logo {
+    position: absolute;
+    height: 106px;
+    width: 291px;
+    background: url(../img/logo.png) no-repeat;
+    background-size: contain;
+}
