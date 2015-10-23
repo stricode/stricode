@@ -2,5 +2,5 @@
 
 layout: redirect
 
-redirect_url: https://www.github.com/stricode
+redirect_url: https://www.github.com/stricode?tab=repositories
 ---
